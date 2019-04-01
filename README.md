@@ -1,2 +1,1 @@
-# FOOTBALL-DATA-VISUALIZATION
-First try to data visualization.
+The project is used to apply techniques learnt in principles of Machine Learning.
